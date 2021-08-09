@@ -1,0 +1,4 @@
+telebot==0.0.4
+python-decouple==3.4
+Flask==1.1.1
+pyTelegramBotAPI==3.8.1
